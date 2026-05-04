@@ -1,0 +1,14 @@
+{
+  "name": "FoggiaApp – percorsi, mappa e preferiti",
+  "short_name": "FoggiaApp",
+  "description": "PWA turistica e didattica bilingue per esplorare Foggia: percorsi storici, mappa, video, galleria, modelli 3D, dove mangiare e preferiti offline.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7ee",
+  "theme_color": "#e0001b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
